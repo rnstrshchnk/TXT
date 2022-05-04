@@ -1,0 +1,7 @@
+1. SDLC, STLC
+2. HTTP методы
+3. JSON, XML
+4. Postman
+5. JS
+6. Terminal
+7. DevTools
